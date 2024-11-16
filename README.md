@@ -1,1 +1,1 @@
-A simple implementation of serverless architecture using NextJs 15.0 functionalities
+A basic landing pg for a musician's site!
